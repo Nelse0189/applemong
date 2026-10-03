@@ -1,0 +1,10 @@
+{
+  "delay_seconds": 10,
+  "timeout_seconds": 30,
+  "nsfw": false,
+  "spoiler": false,
+  "send_replies": true,
+  "subreddits": [
+    "test"
+  ]
+}
